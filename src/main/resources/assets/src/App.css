@@ -1,0 +1,35 @@
+.App {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-sidebar {
+  width:30%;
+  height:100vh;
+  background-color: #efefef;
+  overflow-y: auto;
+}
+
+.App-sidebar h3 {
+  display: inline-block;
+}
+
+.App-sidebar a {
+  display: block;
+  margin-bottom: 0.5rem;
+  height: 100%;
+  white-space:nowrap;
+  text-overflow:ellipsis;
+  overflow:hidden;
+}
+
+.App-content {
+  width:100%;
+  padding:0 20rem 0 5rem;
+  overflow:auto;
+}

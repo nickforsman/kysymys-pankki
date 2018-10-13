@@ -1,0 +1,50 @@
+
+.Question {
+  margin-bottom: 1rem;
+}
+
+.Question-header {
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  position:relative;
+}
+
+.Question-text {
+  width:70%;
+}
+
+.Question-delete {
+  position: absolute;
+  top: 10%;
+  right: 0;
+}
+
+.Question-form {
+  margin-top:2rem;
+}
+
+.Question-form legend {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.Question-form div {
+  margin-top:1rem;
+}
+
+.Question-form input {
+  margin-left: 0.5rem;
+}
+
+.Question-form button {
+  margin-top: 0.5rem;
+}
+
+.Question-answers div {
+  margin-top: 0.5rem;
+}
+
+.Question-answers div button {
+  margin-left: 0.5rem;
+}

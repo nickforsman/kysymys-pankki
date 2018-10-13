@@ -1,0 +1,22 @@
+.Form div {
+  margin-top:1rem;
+}
+
+.Form input {
+  margin-left: 0.5rem;
+}
+
+.Form legend {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.Form textarea {
+  display:block;
+  margin-top: 0.2rem;
+  resize: vertical;
+}
+
+.Form button {
+  margin-top: 0.5rem;
+}
