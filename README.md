@@ -2,6 +2,8 @@
 
 [https://kysymys-pankki.herokuapp.com](https://kysymys-pankki.herokuapp.com)
 
+### App does not work with internet explorer
+
 # Kysymyspankki BE
 
 How to start the kysymyspankki application
